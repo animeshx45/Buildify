@@ -1,403 +1,287 @@
-<div align="center" style="
-  background: linear-gradient(135deg,#020617,#0f172a,#1e293b);
-  padding: 70px 25px;
-  border-radius: 28px;
-  color: white;
-  font-family: 'Segoe UI', sans-serif;
-  overflow:hidden;
-  position:relative;
-  box-shadow:0 15px 50px rgba(0,0,0,0.45);
-  animation: fadeIn 1.2s ease;
-">
+<div align="center">
 
-  <!-- Animated Glow -->
-  <div style="
-    position:absolute;
-    width:350px;
-    height:350px;
-    background:#38bdf8;
-    filter:blur(140px);
-    opacity:0.18;
-    top:-120px;
-    left:-120px;
-    animation: pulse 6s infinite alternate;
-  "></div>
+<img src="https://img.icons8.com/fluency/140/shop.png" width="140"/>
 
-  <div style="
-    position:absolute;
-    width:300px;
-    height:300px;
-    background:#8b5cf6;
-    filter:blur(140px);
-    opacity:0.16;
-    bottom:-100px;
-    right:-100px;
-    animation: pulse 5s infinite alternate;
-  "></div>
+# 🚀 DukaanSite
 
-  <!-- Logo -->
-  <img src="https://img.icons8.com/fluency/120/shop.png"
-       width="95"
-       style="animation: float 4s ease-in-out infinite; z-index:2; position:relative;"/>
+### AI-Powered No-Code Website Builder for Modern Businesses
 
-  <!-- Title -->
-  <h1 style="
-    font-size:4.5em;
-    margin:20px 0 12px;
-    font-weight:900;
-    letter-spacing:1px;
-    background:linear-gradient(90deg,#38bdf8,#818cf8,#22c55e);
-    -webkit-background-clip:text;
-    -webkit-text-fill-color:transparent;
-    position:relative;
-    z-index:2;
-  ">
-    DukaanSite
-  </h1>
-
-  <!-- Subtitle -->
-  <p style="
-    font-size:1.4em;
-    color:#cbd5e1;
-    max-width:800px;
-    line-height:1.9;
-    position:relative;
-    z-index:2;
-  ">
-    ✨ AI-Powered No-Code Website Builder for Modern Businesses
-  </p>
-
-  <!-- Description -->
-  <p style="
-    margin-top:18px;
-    color:#94a3b8;
-    font-size:1.05em;
-    max-width:700px;
-    line-height:1.8;
-    position:relative;
-    z-index:2;
-  ">
-    Build stunning, fast, and professional websites in minutes —
-    without writing a single line of code.
-  </p>
-
-  <!-- Button -->
-  <a href="#"
-     style="
-      margin-top:28px;
-      display:inline-block;
-      background:linear-gradient(90deg,#38bdf8,#6366f1);
-      color:white;
-      text-decoration:none;
-      padding:16px 36px;
-      border-radius:50px;
-      font-weight:700;
-      font-size:1.05em;
-      box-shadow:0 10px 25px rgba(56,189,248,0.35);
-      transition:0.35s;
-      position:relative;
-      z-index:2;
-     ">
-     🚀 Launch Your Website:-https://dukaan-site-buildify-elbc.vercel.app/
-  </a>
-
-</div>
-
-<!-- RUNNING TEXT BAR -->
-
-<div style="
-  width:100%;
-  overflow:hidden;
-  background:linear-gradient(90deg,#0f172a,#111827,#1e293b);
-  padding:16px 0;
-  margin:35px 0;
-  border-radius:18px;
-  box-shadow:0 6px 20px rgba(0,0,0,0.25);
-">
-
-  <div class="dukaan-marquee">
-
-    <span>🚀 AI Website Builder</span>
-    <span>✨ No Coding Needed</span>
-    <span>⚡ Lightning Fast Performance</span>
-    <span>📱 Mobile Responsive</span>
-    <span>🔍 SEO Optimized</span>
-    <span>🛒 E-Commerce Ready</span>
-    <span>🌍 Empowering Local Businesses</span>
-    <span>💼 Modern Professional UI</span>
-    <span>🔒 Secure & Reliable</span>
-    <span>🚀 DukaanSite 2026</span>
-
-  </div>
-
-</div>
-
-<!-- ABOUT -->
-
-<h2 align="center" style="
-  margin-top:60px;
-  color:#0f172a;
-  font-size:2.5em;
-  font-family:'Segoe UI',sans-serif;
-">
-🌟 What is DukaanSite?
-</h2>
-
-<div style="
-  background:linear-gradient(145deg,#ffffff,#f8fafc);
-  padding:40px;
-  border-radius:24px;
-  line-height:1.9;
-  font-size:1.08em;
-  color:#334155;
-  box-shadow:0 10px 25px rgba(0,0,0,0.08);
-  margin-top:30px;
-">
-
-DukaanSite helps local shops, restaurants, startups, creators, and businesses build premium websites instantly using AI.
-
-No coding. No complex setup. No expensive developers.
-
-Everything from design, content, layout, optimization, and responsiveness is automatically handled to create a beautiful modern website experience.
-
-✨ Think of it as your personal digital agency powered by AI.
-
-</div>
-
-<!-- FEATURES -->
-
-<h2 align="center" style="
-  margin-top:70px;
-  color:#0f172a;
-  font-size:2.5em;
-  font-family:'Segoe UI',sans-serif;
-">
-⚡ Powerful Features
-</h2>
-
-<div style="
-  display:grid;
-  grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
-  gap:22px;
-  margin-top:35px;
-">
-
-<div class="feature-card">
-  <h3>🤖 AI Website Generation</h3>
-  <p>Automatically creates layouts, text, colors, and sections intelligently.</p>
-</div>
-
-<div class="feature-card">
-  <h3>⚡ Ultra Fast Speed</h3>
-  <p>Optimized performance for smooth browsing and faster loading.</p>
-</div>
-
-<div class="feature-card">
-  <h3>📱 Mobile Responsive</h3>
-  <p>Perfectly adapts to phones, tablets, laptops, and desktops.</p>
-</div>
-
-<div class="feature-card">
-  <h3>🔍 SEO Optimized</h3>
-  <p>Improves visibility on Google and attracts more customers.</p>
-</div>
-
-<div class="feature-card">
-  <h3>🔒 Advanced Security</h3>
-  <p>Enterprise-grade security and reliable hosting protection.</p>
-</div>
-
-<div class="feature-card">
-  <h3>🌍 Multi-language Support</h3>
-  <p>Create websites in English, Hindi, and regional languages.</p>
-</div>
-
-</div>
-
-<!-- WEBSITE TYPES -->
-
-<h2 align="center" style="
-  margin-top:70px;
-  color:#0f172a;
-  font-size:2.5em;
-  font-family:'Segoe UI',sans-serif;
-">
-🎨 Website Categories
-</h2>
-
-<div style="
-  display:grid;
-  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
-  gap:20px;
-  margin-top:35px;
-">
-
-<div class="glass-card">
-  <h3>🛒 E-Commerce</h3>
-  <p>Shopping carts, products, and checkout systems.</p>
-</div>
-
-<div class="glass-card">
-  <h3>🍽️ Restaurants</h3>
-  <p>Menus, booking systems, and elegant food layouts.</p>
-</div>
-
-<div class="glass-card">
-  <h3>👗 Fashion Brands</h3>
-  <p>Premium showcase designs for modern fashion stores.</p>
-</div>
-
-<div class="glass-card">
-  <h3>🎓 Education</h3>
-  <p>Course portals and coaching institute websites.</p>
-</div>
-
-<div class="glass-card">
-  <h3>🎭 Portfolios</h3>
-  <p>Beautiful portfolio websites for creators and artists.</p>
-</div>
-
-<div class="glass-card">
-  <h3>💼 Corporate</h3>
-  <p>Professional business websites and dashboards.</p>
-</div>
-
-</div>
-
-<!-- FUTURE -->
-
-<h2 align="center" style="
-  margin-top:70px;
-  color:#0f172a;
-  font-size:2.5em;
-  font-family:'Segoe UI',sans-serif;
-">
-🚀 Why DukaanSite is Future Ready
-</h2>
-
-<div style="
-  margin-top:35px;
-  background:linear-gradient(135deg,#020617,#111827);
-  padding:45px;
-  border-radius:26px;
-  color:white;
-  box-shadow:0 15px 40px rgba(0,0,0,0.35);
-">
-
-<ul style="
-  list-style:none;
-  padding:0;
-  line-height:2.4;
-  font-size:1.08em;
-">
-
-<li>✨ AI continuously improves website quality and automation.</li>
-<li>📈 Scalable infrastructure for thousands of businesses.</li>
-<li>🌍 Built with modern global web standards.</li>
-<li>📱 Adapts to future devices and technology trends.</li>
-<li>⚡ Performance and SEO optimized by default.</li>
-
-</ul>
-
-</div>
-
-<!-- VISION -->
-
-<h2 align="center" style="
-  margin-top:70px;
-  color:#0f172a;
-  font-size:2.5em;
-  font-family:'Segoe UI',sans-serif;
-">
-🌍 Our Vision
-</h2>
-
-<div style="
-  margin-top:35px;
-  background:#f8fafc;
-  border-left:6px solid #38bdf8;
-  padding:40px;
-  border-radius:22px;
-  line-height:1.9;
-  color:#334155;
-  font-size:1.08em;
-  box-shadow:0 10px 25px rgba(0,0,0,0.08);
-">
-
-We believe every local business deserves a premium online presence.
-
-Whether it's a bakery, tuition center, restaurant, boutique, or startup —
-DukaanSite empowers businesses with world-class digital experiences without needing technical knowledge.
-
-✨ Our mission is simple:
-<b>Transform local shops into trusted online brands.</b>
-
-</div>
-
-<!-- CTA -->
-
-<div align="center" style="
-  margin-top:80px;
-  padding:60px 25px;
-  border-radius:28px;
-  background:linear-gradient(135deg,#38bdf8,#6366f1);
-  color:white;
-  box-shadow:0 15px 40px rgba(99,102,241,0.35);
-">
-
-<h2 style="
-  font-size:2.8em;
-  margin-bottom:15px;
-">
-🚀 Ready to Build Your Website?
-</h2>
-
-<p style="
-  max-width:720px;
-  margin:auto;
-  line-height:1.9;
-  font-size:1.1em;
-  color:#e2e8f0;
-">
-
-Create modern, fast, and professional websites powered by AI —
-without coding or technical complexity.
-
+<p>
+Build professional websites in minutes — without coding.
 </p>
 
-<br/>
-
-<a href="#"
-   style="
-    display:inline-block;
-    margin-top:10px;
-    background:white;
-    color:#111827;
-    text-decoration:none;
-    padding:16px 34px;
-    border-radius:50px;
-    font-weight:700;
-    font-size:1.05em;
-    transition:0.35s;
-   ">
-   ✨ Get Started Today
-</a>
+<p>
+✨ From Local Shop to Global Brand ✨
+</p>
 
 </div>
 
-<!-- FOOTER -->
+---
 
-<div align="center" style="
-  margin-top:50px;
-  color:#64748b;
-  font-size:1em;
-  font-family:'Segoe UI',sans-serif;
-">
+<div align="center">
 
-✨ From Local Shop to Global Brand ✨
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/web-design.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="70"/>
 
-<br/><br/>
+</div>
 
-Made with ❤️ for modern businesses · DukaanSite © 2026
+---
+
+# 🌟 About DukaanSite
+
+DukaanSite is a modern AI-powered platform designed to help:
+
+- 🛒 Local Shops
+- 🍽️ Restaurants
+- 🎓 Coaching Centers
+- 👗 Fashion Brands
+- 🎭 Creators & Freelancers
+- 💼 Startups & Businesses
+
+create stunning professional websites instantly.
+
+No coding.  
+No complicated setup.  
+No expensive developers.  
+
+Just describe your business and DukaanSite automatically creates a beautiful modern website for you.
+
+✨ It’s like having your own digital agency powered by AI.
+
+---
+
+# ⚡ Core Features
+
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 AI Website Generation
+Automatically creates:
+- Layouts
+- Sections
+- Content
+- Colors
+- UI Designs
+
+</td>
+
+<td width="50%">
+
+## ⚡ Lightning Fast
+Optimized for:
+- Faster loading
+- Smooth performance
+- Better user experience
+- Modern speed standards
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 📱 Fully Responsive
+Perfectly works on:
+- Mobile Phones
+- Tablets
+- Laptops
+- Desktop Screens
+
+</td>
+
+<td width="50%">
+
+## 🔍 SEO Optimized
+Helps businesses:
+- Rank better on Google
+- Reach more customers
+- Increase online visibility
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🔒 Secure & Reliable
+Includes:
+- Secure Infrastructure
+- Reliable Hosting
+- Protection Systems
+- Safe Customer Experience
+
+</td>
+
+<td width="50%">
+
+## 🌍 Multi-language Support
+Supports:
+- English
+- Hindi
+- Regional Languages
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎨 Website Categories
+
+<div align="center">
+
+| Category | Description |
+|---|---|
+| 🛒 E-Commerce | Online stores with shopping systems |
+| 🍽️ Restaurants | Menus and booking systems |
+| 👗 Fashion Brands | Stylish showcase websites |
+| 🎓 Education | Coaching & course portals |
+| 🎭 Portfolios | Creative portfolio websites |
+| 💼 Corporate | Professional business websites |
+
+</div>
+
+---
+
+# 🚀 Why Choose DukaanSite?
+
+✅ No coding required  
+✅ AI-powered automation  
+✅ Beautiful modern UI  
+✅ Mobile-friendly websites  
+✅ Fast & secure performance  
+✅ SEO-ready architecture  
+✅ Scalable infrastructure  
+
+---
+
+# 🌍 Our Vision
+
+We believe every local business deserves a world-class online presence.
+
+Whether it’s:
+- A bakery
+- A tuition center
+- A restaurant
+- A boutique
+- A startup
+
+DukaanSite helps businesses build trust online and grow digitally without technical complexity.
+
+<div align="center">
+
+## ✨ Our Mission
+
+### Transform local shops into powerful online brands.
+
+</div>
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://img.icons8.com/color/96/html-5--v1.png" width="70"/>
+<img src="https://img.icons8.com/color/96/css3.png" width="70"/>
+<img src="https://img.icons8.com/color/96/javascript--v1.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70"/>
+
+</div>
+
+<br>
+
+- HTML5
+- CSS3
+- JavaScript
+- AI Automation
+- Responsive UI/UX
+
+---
+
+# 📸 Preview Features
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/smartphone-tablet.png" width="70"/>
+<br>
+<b>Responsive Design</b>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/speed.png" width="70"/>
+<br>
+<b>Fast Performance</b>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/google-logo.png" width="70"/>
+<br>
+<b>SEO Ready</b>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/security-checked.png" width="70"/>
+<br>
+<b>Secure Platform</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🚀 Future Goals
+
+- AI-generated complete websites
+- Drag & Drop Builder
+- Analytics Dashboard
+- Payment Integration
+- E-Commerce Automation
+- AI Content Generation
+- Multi-theme Support
+- Custom Domain Integration
+
+---
+
+# 💡 Simple Summary
+
+<div align="center">
+
+> ## DukaanSite helps businesses create modern professional websites instantly using AI — without coding.
+
+</div>
+
+---
+
+# ❤️ Made For Businesses
+
+<div align="center">
+
+Built with ❤️ to empower local businesses and creators worldwide.
+
+</div>
+
+---
+
+# 📌 License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+# ✨ DukaanSite © 2026 ✨
+
+### From Local Shop to Global Brand
 
 </div>
