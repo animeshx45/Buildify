@@ -1,56 +1,55 @@
-🚀 DukaanSite – AI-Powered No-Code Website Builder
-DukaanSite is an AI-powered SaaS platform designed to bridge the gap between traditional local businesses and the digital marketplace.
-Think of it as your personal design agency + IT team—but at a fraction of the cost.
+<h1 align="center">🚀 DukaanSite</h1>
+<p align="center"><b>AI-Powered No-Code Website Builder</b></p>
 
-✨ Core Value Proposition
-We democratize high-end web design with our “Masterpiece” philosophy:
-Minimalist, lightning-fast, and professional websites that look custom-coded—without writing a single line of code.
+<hr/>
 
-⚙️ Core Platform Features
-🤖 AI-Powered Setup – Describe your shop, and we auto-generate layouts, images, and text.
+<h2>🌟 Core Value Proposition</h2>
+<p>
+DukaanSite is an AI-powered SaaS platform designed to bridge the gap between traditional local businesses and the digital marketplace.  
+Our mission is to democratize high-end web design with a <b>“Masterpiece” philosophy</b>: minimalist, lightning-fast, and professional websites that look custom-coded—without writing a single line of code.
+</p>
 
-⚡ Blink-of-an-Eye Loading – Engineered for super speed; no more losing customers to slow sites.
+<h2>⚙️ Core Platform Features</h2>
+<ul>
+  <li>🤖 <b>AI-Powered Setup</b> – Auto-generate layouts, images, and text.</li>
+  <li>⚡ <b>Blink-of-an-Eye Loading</b> – Super fast speed, no customer drop-offs.</li>
+  <li>📱 <b>Mobile-First Design</b> – Beautiful on every screen.</li>
+  <li>🔍 <b>Google-Friendly SEO</b> – Boost local search visibility.</li>
+  <li>🔒 <b>Bank-Level Security</b> – Safe & secure protection.</li>
+</ul>
 
-📱 Mobile-First Design – Beautiful on every screen: phone, tablet, or desktop.
+<h2>🎨 Specialized Canvases (Industry Services)</h2>
+<ul>
+  <li>🛒 <b>E-Commerce Stores</b> – Shopping cart + premium checkout.</li>
+  <li>👗 <b>Fashion Elite</b> – Luxury-style layouts for apparel brands.</li>
+  <li>🍽️ <b>Luxury Dining</b> – Digital menus & elegant restaurant designs.</li>
+  <li>🎓 <b>Education Portals</b> – Organized structures for schools & courses.</li>
+  <li>🎭 <b>Creative Hub</b> – Visual-heavy portfolios for artists & freelancers.</li>
+  <li>💼 <b>Business Solutions</b> – Corporate-ready dashboards for agencies.</li>
+</ul>
 
-🔍 Google-Friendly SEO – Built with “Google-Ready” code to boost local search visibility.
+<h2>🛠 End-to-End Managed Services</h2>
+<ul>
+  <li>📊 <b>Centralized Dashboard</b> – Mission Control for performance.</li>
+  <li>🧑‍💻 <b>Admin Control</b> – Manage orders, users, and content easily.</li>
+  <li>🌍 <b>Global Ready</b> – Multilingual support (English/Hindi toggle).</li>
+  <li>🕒 <b>99.9% Uptime Guarantee</b> – Always online, even during peak sales.</li>
+</ul>
 
-🔒 Bank-Level Security – 100% safe & secure protection for your business and customers.
+<h2>📝 Simple Summary</h2>
+<blockquote>
+  <b>DukaanSite builds world-class websites for local shops in minutes.</b><br/>
+  It handles speed, security, and Google ranking—so business owners can focus on selling.<br/>
+  Like having a <b>professional design agency + IT team</b>, but at a fraction of the cost.
+</blockquote>
 
-🎨 Specialized Canvases (Industry Templates)
-We don’t believe in one-size-fits-all. Each industry gets its own tailored foundation:
+<h2>📌 Why Choose DukaanSite?</h2>
+<ul>
+  <li>No coding. No clutter. Just results.</li>
+  <li>Designed to make small shops look like global brands.</li>
+  <li>Built for speed, trust, and growth.</li>
+</ul>
 
-🛒 E-Commerce Stores – Shopping cart + premium checkout.
+<hr/>
 
-👗 Fashion Elite – Luxury-style layouts for apparel & lifestyle brands.
-
-🍽️ Luxury Dining – Digital menus & elegant restaurant designs.
-
-🎓 Education Portals – Organized structures for schools & online courses.
-
-🎭 Creative Hub – Visual-heavy portfolios for artists & freelancers.
-
-💼 Business Solutions – Corporate-ready dashboards for consultants & agencies.
-
-🛠 End-to-End Managed Services
-We provide more than just templates—we deliver a complete ecosystem:
-
-📊 Centralized Dashboard – Mission Control for performance & instant updates.
-
-🧑‍💻 Admin Control – Manage orders, users, and content without developers.
-
-🌍 Global Ready – Multilingual support (English/Hindi toggle).
-
-🕒 99.9% Uptime Guarantee – Your shop stays online 24/7, even during peak sales.
-
-📝 Simple Summary
-DukaanSite builds world-class websites for local shops in minutes.  
-It handles speed, security, and Google ranking—so business owners can focus on selling.
-Like having a professional design agency + IT team, but at a fraction of the cost.
-
-📌 Why Choose DukaanSite?
-No coding. No clutter. Just results.
-
-Designed to make small shops look like global brands.
-
-Built for speed, trust, and growth.
+<p align="center">Made with ❤️ for local businesses · DukaanSite © 2026</p>
