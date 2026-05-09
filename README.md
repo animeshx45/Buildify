@@ -10,11 +10,31 @@
 Build professional websites in minutes — without coding.
 </p>
 
+<br>
+
+<a href="https://dukaan-site-buildify-elbc.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Launch%20Your%20Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
 <p>
 ✨ From Local Shop to Global Brand ✨
 </p>
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/web-design.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="70"/>
+
+</div>
+
+---
 
 # 🌟 About DukaanSite
 
@@ -166,6 +186,29 @@ DukaanSite helps businesses build trust online and grow digitally without techni
 
 </div>
 
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://img.icons8.com/color/96/html-5--v1.png" width="70"/>
+<img src="https://img.icons8.com/color/96/css3.png" width="70"/>
+<img src="https://img.icons8.com/color/96/javascript--v1.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70"/>
+
+</div>
+
+<br>
+
+- HTML5
+- CSS3
+- JavaScript
+- AI Automation
+- Responsive UI/UX
+
+---
+
 # 📸 Preview Features
 
 <div align="center">
@@ -248,5 +291,11 @@ This project is licensed under the MIT License.
 # ✨ DukaanSite © 2026 ✨
 
 ### From Local Shop to Global Brand
+
+<br><br>
+
+<a href="https://dukaan-site-buildify-elbc.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Live%20Website-38bdf8?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
