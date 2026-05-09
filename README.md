@@ -15,17 +15,11 @@ Build professional websites in minutes — without coding.
 <a href="https://dukaan-site-buildify-elbc.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🚀%20Launch%20Your%20Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-<br><br>
-
 <p>
 ✨ From Local Shop to Global Brand ✨
 </p>
-
 </div>
-
 ---
-
 <div align="center">
 
 <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70"/>
@@ -33,7 +27,6 @@ Build professional websites in minutes — without coding.
 <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="70"/>
 
 </div>
-
 ---
 
 # 🌟 About DukaanSite
