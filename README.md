@@ -16,18 +16,6 @@ Build professional websites in minutes — without coding.
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70"/>
-<img src="https://img.icons8.com/fluency/96/web-design.png" width="70"/>
-<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="70"/>
-
-</div>
-
----
-
 # 🌟 About DukaanSite
 
 DukaanSite is a modern AI-powered platform designed to help:
@@ -177,29 +165,6 @@ DukaanSite helps businesses build trust online and grow digitally without techni
 ### Transform local shops into powerful online brands.
 
 </div>
-
----
-
-# 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://img.icons8.com/color/96/html-5--v1.png" width="70"/>
-<img src="https://img.icons8.com/color/96/css3.png" width="70"/>
-<img src="https://img.icons8.com/color/96/javascript--v1.png" width="70"/>
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70"/>
-
-</div>
-
-<br>
-
-- HTML5
-- CSS3
-- JavaScript
-- AI Automation
-- Responsive UI/UX
-
----
 
 # 📸 Preview Features
 
